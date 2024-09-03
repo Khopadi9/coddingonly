@@ -47,6 +47,7 @@ overflow: hidden;
 .bg-8section{
 background-color:#f3f3f3;
 }
+.corr{color:#e5e5e5;}
 .color-12{color: #959595 !important;}
 .text{text-transform:uppercase ;
 letter-spacing:-0.5px;}
@@ -1013,3 +1014,26 @@ line-height: 30px;
 padding: 0px 14px;
 margin: 3px 0px;
 }
+.but22 button{
+    text-transform: capitalize !important;
+padding: 12px 24px !important;
+border: 0px !important;
+transition: 0.4s;
+}
+.but22 ul{margin:0%;}
+.but22 button:hover{
+    background-color: #1ccdca !important;
+    color: white !important;
+
+}
+.but22 button:focus{
+    background-color: #1ccdca !important;
+   color: white !important;
+}
+.portfoli img{
+    height: 100%;
+width: 100%;
+margin-top: 15px;
+}
+
+
