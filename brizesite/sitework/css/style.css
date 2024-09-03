@@ -47,7 +47,7 @@ overflow: hidden;
 .bg-8section{
 background-color:#f3f3f3;
 }
-.corr{color:#e5e5e5;}
+.corr{color:#e5e5e5 !important;}
 .color-12{color: #959595 !important;}
 .text{text-transform:uppercase ;
 letter-spacing:-0.5px;}
@@ -276,7 +276,7 @@ display: flex;
 justify-content: center;
 }
 .bhai{
-background-image: url(/images/bhai1.webp);
+background-image: url(/brizesite/sitework/images/testimonialhome.webp);
 background-size: cover;
 }
 .llp img{
@@ -968,7 +968,8 @@ color: #1ccdca;
 }
 .cate222 a:hover{color: #000;}
 .cate222 span{margin-left: 5px;}
-.cate222 i{padding-right: 7px;
+.cate222 i{
+padding-right: 7px;
 font-style: normal;}
 .recen img{
 width: 100%;
@@ -1005,7 +1006,8 @@ color:#1ccdca !important;
 color: #000 !important;
 font-weight: 100;
 }
-.datess span{font-weight: 100;
+.datess span{
+font-weight: 100;
 color: #555555;}
 .product-tags a{
 border: 1px solid #ddd;
@@ -1024,16 +1026,19 @@ transition: 0.4s;
 .but22 button:hover{
     background-color: #1ccdca !important;
     color: white !important;
-
 }
 .but22 button:focus{
     background-color: #1ccdca !important;
    color: white !important;
 }
-.portfoli img{
-    height: 100%;
-width: 100%;
-margin-top: 15px;
+.brt{
+ border-top: 1px solid #e5e5e5;   
 }
-
-
+.brt ul{
+    margin-top:8px;
+}
+.port2 img{
+    height: 100%;
+    width: 100%;
+    margin-top: 15px;
+}
