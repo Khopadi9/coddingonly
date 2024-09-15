@@ -47,6 +47,7 @@ overflow: hidden;
 .bg-8section{
 background-color:#f3f3f3;
 }
+.b-b{border-bottom: 1px solid #ececec;}
 .corr{color:#e5e5e5 !important;}
 .color-12{color: #959595 !important;}
 .text{text-transform:uppercase ;
